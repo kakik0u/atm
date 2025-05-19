@@ -84,7 +84,7 @@ jobs:
         run: |
           brew uninstall cmake
           brew install bison pkg-config gettext glib-utils libgpg-error nasm make meson
-          pip3 install --user six pyparsing --break-system-packages
+          pip3 install --user six pyparsing distutils --break-system-packages
           rm -f /usr/local/lib/pkgconfig/*.pc
       - name: Build Sysroot
         if: steps.cache-sysroot.outputs.cache-hit != 'true' || github.event.inputs.rebuild_sysroot == 'true'
