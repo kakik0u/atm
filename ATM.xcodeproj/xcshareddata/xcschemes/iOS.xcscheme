@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CE2D926824AD46670059923A"
-               BuildableName = "UTM.app"
+               BuildableName = "ATM.app"
                BlueprintName = "iOS"
                ReferencedContainer = "container:ATM.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE2D926824AD46670059923A"
-            BuildableName = "UTM.app"
+            BuildableName = "ATM.app"
             BlueprintName = "iOS"
             ReferencedContainer = "container:ATM.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CE2D926824AD46670059923A"
-            BuildableName = "UTM.app"
+            BuildableName = "ATM.app"
             BlueprintName = "iOS"
             ReferencedContainer = "container:ATM.xcodeproj">
          </BuildableReference>
